@@ -13,7 +13,9 @@ A surf and ice cream shop in Oahu is trying to determine if they should stay ope
 - All other statistics were only about 3-4 degrees higher in June than in December 
 
 
-[INSERT IMAGES OF SUMMARY STATS HERE]
+![June_Summary_Stats](https://user-images.githubusercontent.com/114192448/209022572-fe3f4770-673d-42ed-bebc-8dc8a42a0263.png)
+![Dec_Summary_Stats](https://user-images.githubusercontent.com/114192448/209022585-2771e692-0119-44e8-814a-582d991316c9.png)
+
 
 
 ## Summary
